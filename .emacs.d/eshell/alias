@@ -1,0 +1,2 @@
+alias javacompile  $*
+alias javac javacompile $*

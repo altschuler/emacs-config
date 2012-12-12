@@ -1,0 +1,46 @@
+cd C:\Users\Simon\Downloads\auctex-11.86\auctex-11.86
+ls
+./configure
+sudo ./configure
+make
+awd
+awd
+java
+javac
+java -c
+cd /Users/Simon/Google\ Drev/School/Kurser/02121\ Introduktion\ til\ Softwareteknologi/Uge\ 3/
+ls
+ls
+java Opgaver.txt
+java Opgaver.java 
+java Opgaver.java 
+javac Opgaver.java 
+C:\Program Files\Java\jdk1.7.0_07\bin
+C:\Program Files\Java\jdk1.7.0_07\bin\javac Opgaver.java 
+"C:\Program Files\Java\jdk1.7.0_07\bin\javac" Opgaver.java 
+javac
+javac
+javac Opgaver.java 
+javac Opgaver.java 
+javacompile
+javac
+cd
+ls
+cd /Users/Simon/Google\ Drev/School/Kurser/02121\ Introduktion\ til\ Softwareteknologi/
+cd
+ls
+ls
+cd /Users/Simon/Google\ Drev/School/Kurser/02121\ Introduktion\ til\ Softwareteknologi/Uge\ 3/
+ls
+java Opgaver
+javac Opgaver.java 
+python
+ls
+cd ~/.emacs.d/
+ls
+mkdir plugins
+ls
+cd plugins/
+git
+etags --help
+etags

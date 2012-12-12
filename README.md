@@ -1,11 +1,13 @@
 emacs-config
 ============
-*** Includes ***
-** Majors **
+
+Majors
+------
 * SLIME
 * AUCTeX
 
-** Minors **
+Minors
+------
 * YASnippet 
 * Auto Complete
 * Ace Jump
